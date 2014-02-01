@@ -1,3 +1,3 @@
 # Plagio
 
-Escrever um texto sobre a minha experiência recente com plagio.
+Escrever um texto sobre a minha experiência recente com plágio.
