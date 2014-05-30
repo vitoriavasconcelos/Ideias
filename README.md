@@ -1,3 +1,3 @@
 Ideias
 =====
-O objetivo deste repositório é armazenar e organizar e esboços e ideias.
+O objetivo deste repositório é armazenar e organizar informações, esboços e ideias.
