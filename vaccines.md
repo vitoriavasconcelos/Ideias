@@ -1,4 +1,6 @@
 #Vaccines
-Ideia: Descobrir quais vacinas você deve tomar de acordo com o local que está ou deseja ir
 
-Algo parecido com o [quanto custa minha hora](http://www.minhahora.entreoutros.com/) p/ programadores e designers
+Quais vacinas deve-se tomar de acordo com o local? Faixa etária, sexo ...
+
+* Dados abertos - Recife [calendario de vacinacão](http://dados.recife.pe.gov.br/dataset/calendario-de-vacinacao)
+* App do Governo Federal [Vacinação em dia](http://www.aplicativos.gov.br/aplicativos/vacinacao-em-dia-1)
